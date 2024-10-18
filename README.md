@@ -12,3 +12,4 @@ Train the model on a large amount of data specific to the company so it could an
 ———————
 
 Technical part:
+I am going to use the docker container in order to make it environment agnostic
